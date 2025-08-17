@@ -1,4 +1,4 @@
-# 🌍 Rest Countries Explorer
+# 🌍 Rest Countries API OR Globe View
 
 A **React + Redux Toolkit** project built with **Vite** and **Tailwind CSS**, consuming a REST API (GitHub raw JSON) to display detailed country information. It is designed with **production-grade practices** such as modular foldering, Redux slices, reusable components, and theming.
 
